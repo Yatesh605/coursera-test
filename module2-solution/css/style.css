@@ -47,10 +47,12 @@ float:left;
 
 
 .inner{
-	width: 15%;
-	height: 15%;
+	width: 100px;
+	height: 30px;
 	position: relative;
-	left:85%;
+	float:right;
+	text-align: center;
+	padding-top: 5px;
 }
 
 .outer1 .inner{
